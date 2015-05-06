@@ -6,7 +6,7 @@ Summary:	Open-source VISA library for GPIB/USBTMC/LXI
 Summary(pl.UTF-8):	Mająca otwarte źródła biblioteka VISA dla urządzeń GPIB/USBTMC/LXI
 Name:		librevisa
 Version:	0.0.20130812
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Libraries
 # upstream (pre)releases
